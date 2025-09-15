@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"check_collision",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"check_collision",
+  "parent":{
+    "name":"脚本",
+    "path":"folders/脚本.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
